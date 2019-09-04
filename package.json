@@ -1,0 +1,23 @@
+{
+  "name": "redisratelimit",
+  "version": "1.0.0",
+  "description": "rate limiter based on redis client ",
+  "main": "index.js",
+  "dependencies": {
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UriZ/redisRateLimit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UriZ/redisRateLimit/issues"
+  },
+  "homepage": "https://github.com/UriZ/redisRateLimit#readme"
+}
